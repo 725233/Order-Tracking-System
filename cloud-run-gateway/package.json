@@ -1,0 +1,11 @@
+{
+  "name": "orderflow-gemini-gateway",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.4.6",
+    "google-auth-library": "^10.0.0"
+  }
+}

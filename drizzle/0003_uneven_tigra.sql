@@ -1,0 +1,1 @@
+ALTER TABLE `orders` ADD `request_type` text DEFAULT 'Customer Order' NOT NULL;

@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789035531077,
+      "tag": "0000_chief_oracle",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789049789434,
+      "tag": "0001_lyrical_sharon_carter",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789387368214,
+      "tag": "0002_wide_onslaught",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1789643651184,
+      "tag": "0003_uneven_tigra",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1789729374135,
+      "tag": "0004_sturdy_prism",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1789730897101,
+      "tag": "0005_brief_psynapse",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1789735634741,
+      "tag": "0006_windy_mach_iv",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1789986314769,
+      "tag": "0007_aspiring_monster_badoon",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1790058247327,
+      "tag": "0008_sturdy_lockheed",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "6",
+      "when": 1790330502409,
+      "tag": "0009_green_moondragon",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">OrderFlow</title>
+  <rect width="96" height="96" rx="22" fill="#071c33"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 32 48 17l28 15-28 15Z" stroke="#59a8dc" stroke-width="7"/>
+    <path d="M20 32v31l28 16 28-16V32M48 47v32" stroke="#59a8dc" stroke-width="7"/>
+    <path d="m58 24 9 5" stroke="#ffb51b" stroke-width="7"/>
+  </g>
+</svg>

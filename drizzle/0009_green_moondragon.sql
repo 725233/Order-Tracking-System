@@ -1,0 +1,1 @@
+ALTER TABLE `order_items` ADD `management_recommended_currency` text DEFAULT 'AED' NOT NULL;

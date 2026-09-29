@@ -1,0 +1,1 @@
+ALTER TABLE `order_items` ADD `customer_reference` text DEFAULT '' NOT NULL;
